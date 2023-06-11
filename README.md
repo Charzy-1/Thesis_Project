@@ -26,3 +26,6 @@ Contributions to this project are welcome! Feel free to fork the repository, mak
 
 ## Disclaimer:
 Please note that stock market predictions are inherently uncertain, and the accuracy of any model's predictions may vary. This project is for educational and research purposes only and should not be considered as financial advice. Always consult with a qualified financial professional before making any investment decisions.
+
+## Acknowledgements:
+We would like to thank the research community for their contributions to the field of financial market prediction using LSTM models. Special thanks to Prof. Doc. Seda Karateke my Machine learning lecturer/Thesis advisor and my Prof. Semra Erbas my course advisor for their support and guidance in this project.
